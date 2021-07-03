@@ -1,2 +1,2 @@
 # Dora
-*Project for overview*
+Project for overview
